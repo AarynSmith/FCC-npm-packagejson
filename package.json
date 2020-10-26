@@ -1,5 +1,14 @@
 {
 	"name": "fcc-learn-npm-package-json",
+	"version": "0.0.1",
+	"author": "Aaryn Smith",
+	"description": "Package for learning API and Microservices with FreeCodeCamp",
+	"keywords": [
+		"freecodecamp",
+		"learn",
+		"microservices"
+	],
+	"license": "MIT",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
@@ -12,6 +21,6 @@
 	},
 	"repository": {
 		"type": "git",
-		"url": "https://idontknow/todo.git"
+		"url": "https://github.com/AarynSmith/FCC-Api-Microservices.git"
 	}
 }
